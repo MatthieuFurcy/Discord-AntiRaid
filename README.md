@@ -4,7 +4,7 @@
 <br />
 
 -💻 **Technologies** : JavaScript, Node.JS, Quick.DB <br />
--👨‍💻 **Author** : [Zitiix](https://github.com/ZitiixDevelopment) <br />
+-👨‍💻 **Author** : [Zitiix](https://github.com/MatthieuFurcy) <br />
 -🌍 **Main Language** : English <br />
 -🕓 **Uploaded since** : 5 May 2022 (Reupload because of new Github acc) <br />
 -🤖 **Required packages** : ``node.js, npm, discord.js, fs, quick.db, colors``
