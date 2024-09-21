@@ -1,6 +1,3 @@
-// By Zitiix; A Discord Basic Protect Bot For Discord :)
-// Discord : Zitiix
-
 const {Collection, Client, Intents} = require('discord.js');
 const {LoadCommands, LoadEvents} = require('./build/loader.js');
 const {TOKEN} = require('./config.json');
